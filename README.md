@@ -27,3 +27,8 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Run JSON Server on Port http://localhost:5000
+```sh
+npm start server
+```
